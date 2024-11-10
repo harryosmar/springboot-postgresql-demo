@@ -15,4 +15,4 @@ mvn spring-boot:run
 
 [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
-[!swagger](https://raw.githubusercontent.com/harryosmar/springboot-postgresql-demo/refs/heads/master/swagger.png)
+![swagger](https://raw.githubusercontent.com/harryosmar/springboot-postgresql-demo/refs/heads/master/swagger.png)
